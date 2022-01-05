@@ -1,4 +1,4 @@
-# PPS-primoridal-particle-system-
+# PPS-primoridal-particle-system
 
 models particle emergence
 
