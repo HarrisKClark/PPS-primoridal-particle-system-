@@ -2,4 +2,4 @@
 
 models particle emergence
 
->need to fix large interactons
+>need to fix large interacton s
